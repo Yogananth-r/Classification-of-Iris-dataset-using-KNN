@@ -5,4 +5,4 @@ The data set consists of 50 samples from each of three species of Iris (Iris set
 Get the dataset here : https://www.kaggle.com/datasets/uciml/iris/download?datasetVersionNumber=2
 
 I have performed K-Nearest Neighbour algorithm on the dataset and the classifier is about 95% accurate.
-And Neural Networks in Python. Check out both codes. 
+<br>And Neural Networks in Python. Check out both codes. 
